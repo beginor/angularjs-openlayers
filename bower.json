@@ -1,0 +1,23 @@
+{
+  "name": "angular-openlayers",
+  "authors": [
+    "beginor <beginor@qq.com>"
+  ],
+  "description": "Integrate AngularJS 1.5.x and OpenLayers using TypeScript.",
+  "main": "index.html",
+  "moduleType": ["amd"],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ol3": "https://github.com/openlayers/ol3/releases/download/v3.15.1/v3.15.1-dist.zip",
+    "jquery": "^2.2.3",
+    "angular": "^1.5.5"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ol3-test",
+  "dependencies": {},
+  "globalDependencies": {
+    "angular": "registry:dt/angular#1.5.0+20160517064839",
+    "jquery": "registry:dt/jquery#1.10.0+20160417213236",
+    "openlayers": "github:s-innovations/ol3-dist/v3.15.1/typings/openlayers.d.ts"
+  }
+}

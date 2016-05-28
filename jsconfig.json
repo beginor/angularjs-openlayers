@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES6"
+    },
+    "files": [
+        "bower_components/ol3/ol-debug.js",
+        "index.js",
+        "test.js"
+    ]
+}
